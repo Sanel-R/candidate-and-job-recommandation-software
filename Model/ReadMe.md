@@ -7,4 +7,4 @@ This directory contains a model that was created for a Job and Candidate matchin
   import tensorflow as tf
   from tensorflow import keras
   
-  model = keras.models.load_model('path/to/location')
+  model = keras.models.load_model('candidate-and-job-recommandation-software.model')
