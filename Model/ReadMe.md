@@ -1,4 +1,10 @@
 ## Job and Candidate Matching Model
 This directory contains a model that was created for a Job and Candidate matching.
 
-The following are steps that can be used to open our model:
+
+#### Setup
+  import numpy as np
+  import tensorflow as tf
+  from tensorflow import keras
+  
+  model = keras.models.load_model('path/to/location')
