@@ -6,7 +6,7 @@ For each file the is candidate's area of expertise, background, and skills and t
 Please note the following to run the the jupyter notebook provided in the above you will need to download the glove (Pre-trained model.), the following link can be used, you will need to place the downloaded files in glove directory:
 
 Link: https://drive.google.com/drive/folders/1d5sDW6ZaB0tFCcYAxj1VlCuZGNpL9bwr?usp=sharing
-
+{For detail explanation on the steps you will need please open the glove directory and follow the steps in the README.txt}
 
 #### Data Preprocessing
 For all Deep Learning models typically the is data pre-processing that is needed to ensure that only the relevant keywords are used when creating a model so as to reduce noise, to achieve this we performed some pre-processing on the CSV file to clean our data, we removed non-ASCII character in our dataset. Since the provided files we already structured we didn't need to do data scrapping which is typically need for unstructured data.
